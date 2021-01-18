@@ -1,3 +1,5 @@
+# SUDAH TIDAK MAINTENANCE
+
 # Aplikasi Kelola Keuangan
 Sebuah aplikasi berbasis web untuk mengelola keuangan pengguna aplikasi.
 
@@ -5,11 +7,9 @@ Sebuah aplikasi berbasis web untuk mengelola keuangan pengguna aplikasi.
 * Java
 * MySQL
 
-## Info Developer
-Jika ada pertanyaan bisa hubungi kontak dibawah : 
+## Credit Developer
 * [Email](mailto:programzidun@gmail.com) - programzidun@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/ramdanzidun/) - Muhammad Ramdan
-* [Instagram](https://www.instagram.com/ramdanzidun/) - @ramdanzidun
 
 
 ```
